@@ -1,0 +1,8 @@
+*.db
+banco.db
+banco.db-journal
+node_modules/
+*.log
+npm-debug.log
+.DS_Store
+Thumbs.db
